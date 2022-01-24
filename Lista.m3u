@@ -1,0 +1,545 @@
+#EXTM3U
+#EXTINF:-1, Lista actualizada 23/01/2022,ClanDeCable
+https://i.imgur.com/SIPXj8s.png
+
+#EXTINF:-1, ARG | Nacionales, América [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+#EXTINF:-1, ARG | Nacionales, TV Pública [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+#EXTINF:-1, ARG | Nacionales, El Nueve [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+#EXTINF:-1, ARG | Nacionales, Telefe [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+#EXTINF:-1, ARG | Nacionales, eltrece [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+#EXTINF:-1, ARG | Nacionales, Net TV [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
+#EXTINF:-1, ARG | Locales, Metro | CABA [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Metro/SA_SAGEMCOM/Metro.m3u8
+#EXTINF:-1, ARG | Locales, Somos | AMBA [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Somos_Norte/SA_SAGEMCOM/Somos_Norte.m3u8
+#EXTINF:-1, ARG | Locales, Somos La Plata | Pcia. Bs. As. [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Somos_La_Plata/SA_SAGEMCOM/Somos_La_Plata.m3u8
+#EXTINF:-1, ARG | Locales, Somos Bahía Blanca | Pcia. Bs. As. [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_SAGEMCOM/Somos_Bahia_Blanca.m3u8
+#EXTINF:-1, ARG | Locales, Somos Mar del Plata | Pcia. Bs. As. [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_SAGEMCOM/Canal_Ciudad_MDQ.m3u8
+#EXTINF:-1, ARG | Locales, Somos Santa Fe [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c5eds/Somos_STF/SA_SAGEMCOM/Somos_STF.m3u8
+#EXTINF:-1, ARG | Locales, Somos Rosario | Santa Fe [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_SAGEMCOM/Somos_Rosario.m3u8
+#EXTINF:-1, ARG | Locales, Somos Rafaela | Santa Fe [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_SAGEMCOM/Somos_Rafaela.m3u8
+#EXTINF:-1, ARG | Locales, Somos Salta-Jujuy [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c4eds/Somos_Salta/SA_SAGEMCOM/Somos_Salta.m3u8
+#EXTINF:-1, ARG | Locales, Somos El Valle | Alto Valle [SD]
+https://edge02-fdo-py.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_SAGEMCOM/Somos_El_Valle.m3u8
+#EXTINF:-1, ARG | Locales, Somos Corrientes [SD]
+https://edge02-fdo-py.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_SAGEMCOM/Somos_Corrientes.m3u8
+#EXTINF:-1, ARG | Locales, Somos Chaco [SD]
+https://edge02-fdo-py.cvattv.com.ar/live/c4eds/Somos_Resistencia/SA_SAGEMCOM/Somos_Resistencia.m3u8
+#EXTINF:-1, ARG | Locales, Somos Misiones [SD]
+https://edge02-fdo-py.cvattv.com.ar/live/c4eds/Somos_Posadas/SA_SAGEMCOM/Somos_Posadas.m3u8
+#EXTINF:-1, ARG | Locales, TV Universidad La Plata | Pcia. Bs. As. [SD]
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_SAGEMCOM/Canal_Universidad.m3u8
+#EXTINF:-1, ARG | Locales, Canal de la Ciudad | CABA [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Cana_de_la_ciudad/SA_SAGEMCOM/Cana_de_la_ciudad.m3u8
+#EXTINF:-1, ARG | Noticias, TN [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+#EXTINF:-1, ARG | Noticias, C5N [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/live/C5N/SA_SAGEMCOM/C5N.m3u8
+#EXTINF:-1, ARG | Noticias, A24 [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/live/America24/SA_SAGEMCOM/America24.m3u8
+#EXTINF:-1, ARG | Noticias, Canal 26 [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+#EXTINF:-1, ARG | Noticias, Crónica [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/live/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+#EXTINF:-1, ARG | Noticias, LN+ [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/live/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
+#EXTINF:-1, ARG | Noticias, IP [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/live/Investigacion_Periodistica/SA_SAGEMCOM/Investigacion_Periodistica.m3u8
+#EXTINF:-1, ARG | Noticias, Diputados TV [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Diputados_TV/SA_SAGEMCOM/Diputados_TV.m3u8
+#EXTINF:-1, ARG | Deportes, TyC Sports [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+#EXTINF:-1, ARG | Deportes, Deportv [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
+#EXTINF:-1, ARG | Deportes, Fox Sports [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1, ARG | Deportes, ESPN [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1, ARG | Deportes, ESPN 2 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
+#EXTINF:-1, ARG | Deportes, ESPN 3 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1, ARG | Deportes, El Garage TV [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/El_Garage/SA_SAGEMCOM/El_Garage.m3u8
+#EXTINF:-1, ARG | Deportes, América Sports [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/America_Sports/SA_SAGEMCOM/America_Sports.m3u8
+#EXTINF:-1, ARG | Deportes Premium, TNT Sports [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1, ARG | Deportes Premium, Fox Sports Premium [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1, ARG | Cine y Series, CineAr [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv.m3u8
+#EXTINF:-1, ARG | Cine y Series, TNT [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1, ARG | Rural, Canal Rural [SD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Canal_Rural/SA_SAGEMCOM/Canal_Rural.m3u8
+#EXTINF:-1, ARG | Rural, Chacra TV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Chacra_TV/SA_SAGEMCOM/Chacra_TV.m3u8
+#EXTINF:-1, ARG | Cultura, Encuentro [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
+#EXTINF:-1, ARG | Cultura y Documentales, Canal (á) [HD]
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Canal_a/SA_SAGEMCOM/Canal_a.m3u8
+#EXTINF:-1, ARG | Religión, CanalLuz [SD]
+https://edge02-fdo-py.cvattv.com.ar/live/live/CANAL_LUZ/SA_SAGEMCOM/CANAL_LUZ.m3u8
+#EXTINF:-1, ARG | Religión, Orbe 21 [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Canal_21/SA_SAGEMCOM/Canal_21.m3u8
+#EXTINF:-1, ARG | Religión, Señal Santa María [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Senal_Maria/SA_SAGEMCOM/Senal_Maria.m3u8
+#EXTINF:-1, ARG | Religión, Nueva Imagen Televisión [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen.m3u8
+#EXTINF:-1, ARG | Infantiles, Paka Paka [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
+#EXTINF:-1, ARG | Música, Quiero [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+#EXTINF:-1, ARG | Música, Vorterix [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
+#EXTINF:-1, ARG | Música, CM [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/CM/SA_SAGEMCOM/CM.m3u8
+#EXTINF:-1, ARG | Variedades, Ciudad Magazine [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+#EXTINF:-1, ARG | Variedades, Volver [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Volver/SA_SAGEMCOM/Volver.m3u8
+#EXTINF:-1, ARG | Variedades, Telemax [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Telemax/SA_SAGEMCOM/Telemax.m3u8
+#EXTINF:-1, ARG | Variedades, KZO Entertainment [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Gran_Hermano_24hs/SA_SAGEMCOM/Gran_Hermano_24hs.m3u8
+#EXTINF:-1, ARG | Variedades, Viajar [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Turismo_Vision_Argentina/SA_SAGEMCOM/Turismo_Vision_Argentina.m3u8
+#EXTINF:-1, ARG | Variedades, Argentinísima Satelital [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Argentinisima/SA_SAGEMCOM/Argentinisima.m3u8
+#EXTINF:-1, ARG | Variedades, Manijomio Network [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Manijomio/SA_SAGEMCOM/Manijomio.m3u8
+#EXTINF:-1, ARG | Eventos, Canal 90 Digital [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_90/SA_SAGEMCOM/Canal_90.m3u8
+#EXTINF:-1, ARG | Eventos, Eventos 1 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD.m3u8
+#EXTINF:-1, ARG | Eventos, Eventos 2 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_SAGEMCOM/Eventos_2_HD.m3u8
+#EXTINF:-1, ARG | Eventos, Eventos 3 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/Eventos_3/SA_SAGEMCOM/Eventos_3.m3u8
+#EXTINF:-1, ARG | Eventos, Flow Music XP [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/Flow_Music_XP/SA_SAGEMCOM/Flow_Music_XP.m3u8
+#EXTINF:-1, ARG | Eventos, Flow Gaming XP [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Flow_GamingXP/SA_SAGEMCOM/Flow_GamingXP.m3u8
+#EXTINF:-1, ARG | Radios, Rivadavia AM 630 | CABA
+https://musicsrc.cvattv.com.ar/RRIV
+#EXTINF:-1, ARG | Radios, Mitre AM 790 | CABA
+https://musicsrc.cvattv.com.ar/RMIT
+#EXTINF:-1, ARG | Radios, Mitre AM 810 | Córdoba
+https://musicsrc.cvattv.com.ar/RMCB
+#EXTINF:-1, ARG | Radios, Nacional AM 870 | CABA
+https://musicsrc.cvattv.com.ar/RNAC
+#EXTINF:-1, ARG | Radios, CNN AM 950 | CABA
+https://musicsrc.cvattv.com.ar/RCNN
+#EXTINF:-1, ARG | Radios, Del Plata AM 1030 | CABA
+https://musicsrc.cvattv.com.ar/RDPL
+#EXTINF:-1, ARG | Radios, Disney FM 94.3 | CABA
+https://musicsrc.cvattv.com.ar/RDIS
+#EXTINF:-1, ARG | Radios, Mitre FM 96.5 | Rosario
+https://musicsrc.cvattv.com.ar/RMIR
+#EXTINF:-1, ARG | Radios, La 100 FM 99.9 | CABA
+https://musicsrc.cvattv.com.ar/L100
+
+#EXTINF:-1, PAR | Nacionales, Telefuturo [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+#EXTINF:-1, PAR | Nacionales, SNT [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
+#EXTINF:-1, PAR | Nacionales, Paravisión [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
+#EXTINF:-1, PAR | Nacionales, La Tele [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
+#EXTINF:-1, PAR | Nacionales, Trece [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
+#EXTINF:-1, PAR | Nacionales, Paraguay TV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/Paraguay_TV/SA_SAGEMCOM/Paraguay_TV.m3u8
+#EXTINF:-1, PAR | Locales, SUR Televisión | Itapúa [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
+#EXTINF:-1, PAR | Noticias, C9N [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
+#EXTINF:-1, PAR | Noticias, NoticiasPY [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
+#EXTINF:-1, PAR | Noticias, ABC TV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_SAGEMCOM/ABC_TV_C4.m3u8
+#EXTINF:-1, PAR | Noticias, GEN [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8
+#EXTINF:-1, PAR | Noticias, Unicanal [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8
+#EXTINF:-1, PAR | Noticias, 5díasTV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
+#EXTINF:-1, PAR | Noticias, Mega TV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
+#EXTINF:-1, PAR | Noticias, TV Cámara [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
+#EXTINF:-1, PAR | Rural, Canal PRO [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/Canal_PRO/SA_SAGEMCOM/Canal_PRO.m3u8
+#EXTINF:-1, PAR | Eventos, Eventos 1 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Eventos_PY/SA_SAGEMCOM/Eventos_PY.m3u8
+#EXTINF:-1, PAR | Radios, ABC Cardinal AM 730 | Asunción
+https://musicsrc.cvattv.com.ar/CARD
+#EXTINF:-1, PAR | Radios, Monumental AM 1080 | Asunción
+https://musicsrc.cvattv.com.ar/RMON
+#EXTINF:-1, PAR | Radios, Rock and Pop FM 95.9 | Asunción
+https://musicsrc.cvattv.com.ar/RandP
+#EXTINF:-1, PAR | Radios, Urbana FM 106.9 | Asunción
+https://musicsrc.cvattv.com.ar/RUR
+
+#EXTINF:-1, URU | Nacionales, Canal 4 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+#EXTINF:-1, URU | Nacionales, Canal 5 [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_SAGEMCOM/TV_Nacional_Uy.m3u8
+#EXTINF:-1, URU | Nacionales, TV Ciudad [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
+#EXTINF:-1, URU | Nacionales, Canal 10 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+#EXTINF:-1, URU | Nacionales, Teledoce [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
+#EXTINF:-1, URU | Nacionales, VTV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
+#EXTINF:-1, URU | Nacionales, UCL [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal_U/SA_SAGEMCOM/Canal_U.m3u8
+#EXTINF:-1, URU | Deportes Premium, VTV Plus [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
+#EXTINF:-1, URU | Eventos, Eventos 1 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_SAGEMCOM/Eventos_HD_Uy.m3u8
+#EXTINF:-1, URU | Eventos, Eventos 2 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_SAGEMCOM/Eventos_2_UY.m3u8
+#EXTINF:-1, URU | Radios, Sarandí AM 690 | Montevideo
+https://musicsrc.cvattv.com.ar/SARUY
+#EXTINF:-1, URU | Radios, Azul FM 101.9 | Montevideo
+https://musicsrc.cvattv.com.ar/AZUY
+#EXTINF:-1, URU | Radios, Disney 103.7 | Montevideo
+https://musicsrc.cvattv.com.ar/RDUY
+
+#EXTINF:-1, Noticias, CNN International [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/CNN_Internacional/SA_SAGEMCOM/CNN_Internacional.m3u8
+#EXTINF:-1, Noticias, CNN en Español [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+#EXTINF:-1, Noticias, BBC World News [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/BBC_World_News/SA_SAGEMCOM/BBC_World_News.m3u8
+#EXTINF:-1, Noticias, Bloomberg [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Bloomberg/SA_SAGEMCOM/Bloomberg.m3u8
+#EXTINF:-1, Noticias, Euronews [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Euronews/SA_SAGEMCOM/Euronews.m3u8
+#EXTINF:-1, Noticias, Al Jazeera [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/Alljazzera/SA_SAGEMCOM/Alljazzera.m3u8
+#EXTINF:-1, Noticias, Fox News [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Fox_News/SA_SAGEMCOM/Fox_News.m3u8
+#EXTINF:-1, Noticias, France 24 en Francés [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/France_24/SA_SAGEMCOM/France_24.m3u8
+#EXTINF:-1, Noticias, France 24 en Español [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/France24_Flow/SA_SAGEMCOM/France24_Flow.m3u8
+#EXTINF:-1, Noticias, TeleSUR [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Telesur/SA_SAGEMCOM/Telesur.m3u8
+
+#EXTINF:-1, Deportes, ESPN [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/ESPN_UY/SA_SAGEMCOM/ESPN_UY.m3u8
+#EXTINF:-1, Deportes, ESPN 2 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_SAGEMCOM/ESPN2_UY.m3u8
+#EXTINF:-1, Deportes, ESPN 3 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_SAGEMCOM/ESPN3_Uy-Py.m3u8
+#EXTINF:-1, Deportes, ESPN 4 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+#EXTINF:-1, Deportes, ESPN Extra [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+#EXTINF:-1, Deportes, Fox Sports 2 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1, Deportes, Fox Sports 3 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1, Deportes, TyC Sports Internacional [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Internacional.m3u8
+#EXTINF:-1, Deportes, Golf Channel [HD]
+http://edge-live14-hr.cvattv.com.ar/live/c4eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
+#EXTINF:-1, Deportes, NBA TV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
+#EXTINF:-1, Deportes, PX Sports [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/PX_Sports/SA_SAGEMCOM/PX_Sports.m3u8
+
+#EXTINF:-1, Cine y Series, HBO [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1, Cine y Series, Cinemax [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+#EXTINF:-1, Cine y Series, WarnerTV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+#EXTINF:-1, Cine y Series, Space [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+#EXTINF:-1, Cine y Series, TNT [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/TNT/SA_SAGEMCOM/TNT.m3u8
+#EXTINF:-1, Cine y Series, TNT Series [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+#EXTINF:-1, Cine y Series, TBS [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TBS/SA_SAGEMCOM/TBS.m3u8
+#EXTINF:-1, Cine y Series, TCM [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TCM/SA_SAGEMCOM/TCM.m3u8
+#EXTINF:-1, Cine y Series, Sony Channel [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+#EXTINF:-1, Cine y Series, AXN [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1, Cine y Series, UniversalTV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-1, Cine y Series, Studio Universal [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+#EXTINF:-1, Cine y Series, SYFY [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+#EXTINF:-1, Cine y Series, AMC [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+#EXTINF:-1, Cine y Series, EuropaEuropa [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
+#EXTINF:-1, Cine y Series, Star Channel [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1, Cine y Series, Star Life [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
+#EXTINF:-1, Cine y Series, Cinecanal [HD]
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+#EXTINF:-1, Cine y Series, FX [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+#EXTINF:-1, Cine y Series, FXM [HD]
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
+#EXTINF:-1, Cine y Series, Eurochannel [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+#EXTINF:-1, Cine y Series, A3Cine [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
+#EXTINF:-1, Cine y Series, A3Series [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
+#EXTINF:-1, Cine y Series, Paramount Network [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+
+#EXTINF:-1, Cultura y Documentales, Film&Arts [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8
+#EXTINF:-1, Cultura y Documentales, National Geographic [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-1, Cultura y Documentales, Nat Geo Wild [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+#EXTINF:-1, Cultura y Documentales, Discovery Channel [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+#EXTINF:-1, Cultura y Documentales, History [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+#EXTINF:-1, Cultura y Documentales, History 2 [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/History_2/SA_SAGEMCOM/History_2.m3u8
+
+#EXTINF:-1, Religión, EWTN [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/EWTN/SA_SAGEMCOM/EWTN.m3u8
+
+#EXTINF:-1, Infantiles, Disney Channel [HD]
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+#EXTINF:-1, Infantiles, Disney XD [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/DisneyXD/SA_SAGEMCOM/DisneyXD.m3u8
+#EXTINF:-1, Infantiles, Disney Junior [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+#EXTINF:-1, Infantiles, Nat Geo Kids [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/NatGeo_Kids/SA_SAGEMCOM/NatGeo_Kids.m3u8
+#EXTINF:-1, Infantiles, Nickelodeon [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+#EXTINF:-1, Infantiles, Nick Jr. [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+#EXTINF:-1, Infantiles, Cartoon Network [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+#EXTINF:-1, Infantiles, Cartoonito [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+#EXTINF:-1, Infantiles, Tooncast [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+#EXTINF:-1, Infantiles, Discovery Kids [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+#EXTINF:-1, Infantiles, BabyTV [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
+
+#EXTINF:-1, Música, MTV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+#EXTINF:-1, Música, MTV Hits [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
+#EXTINF:-1, Música, MTV 00s [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/VH1/SA_SAGEMCOM/VH1.m3u8
+#EXTINF:-1, Música, NickMusic [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/VH1_Megahits/SA_SAGEMCOM/VH1_Megahits.m3u8
+#EXTINF:-1, Música, Much Music [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+#EXTINF:-1, Música, HTV [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/HTV/SA_SAGEMCOM/HTV.m3u8
+#EXTINF:-1, Música, AllegroTV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/AllegroHD/SA_SAGEMCOM/AllegroHD.m3u8
+
+#EXTINF:-1, Internacionales, Rai Italia [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/RAI/SA_SAGEMCOM/RAI.m3u8
+#EXTINF:-1, Internacionales, TV5 Monde Amérique Latine | Francia [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/TV5_Monde/SA_SAGEMCOM/TV5_Monde.m3u8
+#EXTINF:-1, Internacionales, Deustche Welle Deutsch+ | Alemania [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/DW/SA_SAGEMCOM/DW.m3u8
+#EXTINF:-1, Internacionales, Arirang | Corea del Sur [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/Arirang/SA_SAGEMCOM/Arirang.m3u8
+#EXTINF:-1, Internacionales, TVE | España [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
+#EXTINF:-1, Internacionales, TV Galicia | España [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Tv_Galicia/SA_SAGEMCOM/Tv_Galicia.m3u8
+#EXTINF:-1, Internacionales, Antena 3 Internacional | España [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Antena_3/SA_SAGEMCOM/Antena_3.m3u8
+#EXTINF:-1, Internacionales, TV Chile [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Tv_Chile/SA_SAGEMCOM/Tv_Chile.m3u8
+#EXTINF:-1, Internacionales, Band Internacional | Brasil [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/Bandeirantes/SA_SAGEMCOM/Bandeirantes.m3u8
+#EXTINF:-1, Internacionales, RecordTV Americas | Brasil [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Rede_Record/SA_SAGEMCOM/Rede_Record.m3u8
+#EXTINF:-1, Internacionales, Telefe Internacional | Argentina [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Telefe_Internacional/SA_SAGEMCOM/Telefe_Internacional.m3u8
+#EXTINF:-1, Internacionales, eltrece Internacional | Argentina [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Artear_Internacional/SA_SAGEMCOM/Artear_Internacional.m3u8
+
+#EXTINF:-1, Variedades, Animal Planet [HD]
+http://edge-live14-hr.cvattv.com.ar/live/c4eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+#EXTINF:-1, Variedades, TLC [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/TLC/SA_SAGEMCOM/TLC.m3u8
+#EXTINF:-1, Variedades, HGTV [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+#EXTINF:-1, Variedades, Discovery Home&Health [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1, Variedades, Discovery Theater [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+#EXTINF:-1, Variedades, Discovery World [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+#EXTINF:-1, Variedades, Investigation Discovery [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/ID/SA_SAGEMCOM/ID.m3u8
+#EXTINF:-1, Variedades, Discovery Science [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
+#EXTINF:-1, Variedades, Food Network [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+#EXTINF:-1, Variedades, Telemundo Internacional [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+#EXTINF:-1, Variedades, Las Estrellas [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+#EXTINF:-1, Variedades, E! [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
+#EXTINF:-1, Variedades, Lifetime [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+#EXTINF:-1, Variedades, Comedy Central [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+#EXTINF:-1, Variedades, Pasiones [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+#EXTINF:-1, Variedades, A&E [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+#EXTINF:-1, Variedades, MásChic [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
+#EXTINF:-1, Variedades, ¡HOLA! TV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
+#EXTINF:-1, Variedades, TruTV [HD]
+http://edge02-fdo-py.cvattv.com.ar/live/live/TruTV/SA_SAGEMCOM/TruTV.m3u8
+#EXTINF:-1, Variedades, Glitz* [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Glitz/SA_SAGEMCOM/Glitz.m3u8
+#EXTINF:-1, Variedades, Sun Channel [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
+#EXTINF:-1, Variedades, WOBI TV [SD]
+http://edge02-fdo-py.cvattv.com.ar/live/c2live/WOBI/SA_SAGEMCOM/WOBI.m3u8
+
+#EXTINF:-1, Radios Internacionales, Radio France International
+https://musicsrc.cvattv.com.ar/RRFI
+
+#EXTINF:-1, Cienradios, Top 40
+https://musicsrc.cvattv.com.ar/RM01
+#EXTINF:-1, Cienradios, Top Europa
+https://musicsrc.cvattv.com.ar/RM02
+#EXTINF:-1, Cienradios, Nuevos Clásicos
+https://musicsrc.cvattv.com.ar/RM03
+#EXTINF:-1, Cienradios, '90 Internacional
+https://musicsrc.cvattv.com.ar/RM04
+#EXTINF:-1, Cienradios, '80 Internacional
+https://musicsrc.cvattv.com.ar/RM05
+#EXTINF:-1, Cienradios, '80-'90 Internacional
+https://musicsrc.cvattv.com.ar/RM06
+#EXTINF:-1, Cienradios, '70 Internacional
+https://musicsrc.cvattv.com.ar/RM07
+#EXTINF:-1, Cienradios, '60 Internacional
+https://musicsrc.cvattv.com.ar/RM08
+#EXTINF:-1, Cienradios, '50 Internacional
+https://musicsrc.cvattv.com.ar/RM09
+#EXTINF:-1, Cienradios, Grandes Cantantes
+https://musicsrc.cvattv.com.ar/RM10
+#EXTINF:-1, Cienradios, Ellos
+https://musicsrc.cvattv.com.ar/RM11
+#EXTINF:-1, Cienradios, Ellas
+https://musicsrc.cvattv.com.ar/RM12
+#EXTINF:-1, Cienradios, Vivo
+https://musicsrc.cvattv.com.ar/RM13
+#EXTINF:-1, Cienradios, Disco
+https://musicsrc.cvattv.com.ar/RM14
+#EXTINF:-1, Cienradios, New Party Radio
+https://musicsrc.cvattv.com.ar/RM15
+#EXTINF:-1, Cienradios, Retro Mix
+https://musicsrc.cvattv.com.ar/RM16
+#EXTINF:-1, Cienradios, Rock Nacional
+https://musicsrc.cvattv.com.ar/RM17
+#EXTINF:-1, Cienradios, Grandes del Rock
+https://musicsrc.cvattv.com.ar/RM18
+#EXTINF:-1, Cienradios, Heavy Metal
+https://musicsrc.cvattv.com.ar/RM19
+#EXTINF:-1, Cienradios, Rock Alternativo
+https://musicsrc.cvattv.com.ar/RM20
+#EXTINF:-1, Cienradios, Power Ballads 
+https://musicsrc.cvattv.com.ar/RM21
+#EXTINF:-1, Cienradios, New Wave
+https://musicsrc.cvattv.com.ar/RM22
+#EXTINF:-1, Cienradios, Reggae
+https://musicsrc.cvattv.com.ar/RM23
+#EXTINF:-1, Cienradios, Películas
+https://musicsrc.cvattv.com.ar/RM24
+#EXTINF:-1, Cienradios, Classic Cinema
+https://musicsrc.cvattv.com.ar/RM25
+#EXTINF:-1, Cienradios, Romántica
+https://musicsrc.cvattv.com.ar/RM26
+#EXTINF:-1, Cienradios, Lentos
+https://musicsrc.cvattv.com.ar/RM27
+#EXTINF:-1, Cienradios, Teens
+https://musicsrc.cvattv.com.ar/RM28
+#EXTINF:-1, Cienradios, Reggaeton
+https://musicsrc.cvattv.com.ar/RM29
+#EXTINF:-1, Cienradios, Reggaeton Romántico
+https://musicsrc.cvattv.com.ar/RM30
+#EXTINF:-1, Cienradios, Latino
+https://musicsrc.cvattv.com.ar/RM31
+#EXTINF:-1, Cienradios, Letras y Canciones
+https://musicsrc.cvattv.com.ar/RM32
+#EXTINF:-1, Cienradios, Salsa
+https://musicsrc.cvattv.com.ar/RM33
+#EXTINF:-1, Cienradios, MPB
+https://musicsrc.cvattv.com.ar/RM34
+#EXTINF:-1, Cienradios, Bossa
+https://musicsrc.cvattv.com.ar/RM35
+#EXTINF:-1, Cienradios, Axe
+https://musicsrc.cvattv.com.ar/RM36
+#EXTINF:-1, Cienradios, Jazz
+https://musicsrc.cvattv.com.ar/RM37
+#EXTINF:-1, Cienradios, Smooth Jazz
+https://musicsrc.cvattv.com.ar/RM38
+#EXTINF:-1, Cienradios, Chill Out
+https://musicsrc.cvattv.com.ar/RM39
+#EXTINF:-1, Cienradios, Chill África
+https://musicsrc.cvattv.com.ar/RM40
+#EXTINF:-1, Cienradios, Electrónica
+https://musicsrc.cvattv.com.ar/RM41
+#EXTINF:-1, Cienradios, Trendy
+https://musicsrc.cvattv.com.ar/RM42
+#EXTINF:-1, Cienradios, Lounge
+https://musicsrc.cvattv.com.ar/RM43
+#EXTINF:-1, Cienradios, Blend
+https://musicsrc.cvattv.com.ar/RM44
+#EXTINF:-1, Cienradios, New Age
+https://musicsrc.cvattv.com.ar/RM45
+#EXTINF:-1, Cienradios, Tango
+https://musicsrc.cvattv.com.ar/RM46
+#EXTINF:-1, Cienradios, Tango Electrónico
+https://musicsrc.cvattv.com.ar/RM47
+#EXTINF:-1, Cienradios, Clásica
+https://musicsrc.cvattv.com.ar/RM48
+#EXTINF:-1, Cienradios, Ópera
+https://musicsrc.cvattv.com.ar/RM49
+#EXTINF:-1, Cienradios, Ópera Romántica
+https://musicsrc.cvattv.com.ar/RM50
