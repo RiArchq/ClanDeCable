@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Lista actualizada 24/02/2022, ClanDeCable
+#EXTINF:-1, Lista actualizada 25/02/2022, ClanDeCable
 https://i.imgur.com/SIPXj8s.png
 
 #EXTINF:-1, ARG | Nacionales, América [HD]
@@ -76,6 +76,8 @@ https://edge-live31-hr.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_SAGEMCOM/Telefe_
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Salta/SA_SAGEMCOM/Somos_Salta.m3u8
 #EXTINF:-1, ARG | Locales, Somos El Valle | Alto Valle [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_SAGEMCOM/Somos_El_Valle.m3u8
+#EXTINF:-1, ARG | Locales, Telefe Neuquén [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_SAGEMCOM/Telefe_Neuquen.m3u8
 #EXTINF:-1, ARG | Locales, 13 Max | Corrientes [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_SAGEMCOM/CH_13_Corrientes.m3u8
 #EXTINF:-1, ARG | Locales, Somos Corrientes [SD]
@@ -84,6 +86,8 @@ https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_SAGEMCOM/Som
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_SAGEMCOM/CH_9_Resistencia.m3u8
 #EXTINF:-1, ARG | Locales, Somos | Chaco [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Resistencia/SA_SAGEMCOM/Somos_Resistencia.m3u8
+#EXTINF:-1, ARG | Locales, Telefe Tucumán [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_SAGEMCOM/Canal_8_Tucuman.m3u8
 #EXTINF:-1, ARG | Locales, Canal 10 | Tucumán [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_SAGEMCOM/Ch10_Tucuman.m3u8
 #EXTINF:-1, ARG | Locales, América Tucumán [HD]
@@ -171,7 +175,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_I
 #EXTINF:-1, ARG | Infantiles, Paka Paka [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 #EXTINF:-1, ARG | Música, Quiero [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1, ARG | Música, Vorterix [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
 #EXTINF:-1, ARG | Música, CM [SD]
