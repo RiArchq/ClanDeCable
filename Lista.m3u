@@ -82,22 +82,36 @@ https://edge-live31-hr.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_SAGEMCOM/CH_
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_SAGEMCOM/Somos_Corrientes.m3u8
 #EXTINF:-1, ARG | Locales, Canal 9 Resistencia | Chaco [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_SAGEMCOM/CH_9_Resistencia.m3u8
-#EXTINF:-1, ARG | Locales, Somos Chaco [SD]
+#EXTINF:-1, ARG | Locales, Somos | Chaco [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Resistencia/SA_SAGEMCOM/Somos_Resistencia.m3u8
 #EXTINF:-1, ARG | Locales, Canal 10 | Tucumán [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_SAGEMCOM/Ch10_Tucuman.m3u8
+#EXTINF:-1, ARG | Locales, América Tucumán [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/America24_Tucuman/SA_SAGEMCOM/America24_Tucuman.m3u8
 #EXTINF:-1, ARG | Locales, Doce Misiones [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_SAGEMCOM/CH_12_Posadas.m3u8
-#EXTINF:-1, ARG | Locales, Somos Misiones [SD]
+#EXTINF:-1, ARG | Locales, Somos | Misiones [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Posadas/SA_SAGEMCOM/Somos_Posadas.m3u8
 #EXTINF:-1, ARG | Locales, Canal 9 Litoral | Entre Ríos [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_SAGEMCOM/Canal_9_Parana.m3u8
 #EXTINF:-1, ARG | Locales, El Once Paraná | Entre Ríos [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Canal_11_Parana/SA_SAGEMCOM/Canal_11_Parana.m3u8
+#EXTINF:-1, ARG | Locales, Somos Entre Ríos [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Parana/SA_SAGEMCOM/Somos_Parana.m3u8
+#EXTINF:-1, ARG | Locales, Canal 10 | Río Negro [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_SAGEMCOM/Canal10_Rio_Negro.m3u8
 #EXTINF:-1, ARG | Locales, Canal 7 | Santiago del Estero [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_SAGEMCOM/Canal7_SDE.m3u8
 #EXTINF:-1, ARG | Locales, Canal 7 | Catamarca [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal7_Catamarca/SA_SAGEMCOM/Canal7_Catamarca.m3u8
+#EXTINF:-1, ARG | Locales, Somos | La Pampa [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Somos_La_Pampa/SA_SAGEMCOM/Somos_La_Pampa.m3u8
+#EXTINF:-1, ARG | Locales, Canal 3 | Formosa [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal_3_Formosa/SA_SAGEMCOM/Canal_3_Formosa.m3u8
+#EXTINF:-1, ARG | Locales, Canal 11 | Formosa [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal_11_Formosa/SA_SAGEMCOM/Canal_11_Formosa.m3u8
+#EXTINF:-1, ARG | Locales, Somos | Formosa [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Formosa/SA_SAGEMCOM/Somos_Formosa.m3u8
 #EXTINF:-1, ARG | Noticias, TN [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 #EXTINF:-1, ARG | Noticias, C5N [HD]
@@ -165,7 +179,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
 #EXTINF:-1, ARG | Variedades, Ciudad Magazine [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 #EXTINF:-1, ARG | Variedades, Volver [SD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Volver/SA_SAGEMCOM/Volver.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
 #EXTINF:-1, ARG | Variedades, Telemax [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Telemax/SA_SAGEMCOM/Telemax.m3u8
 #EXTINF:-1, ARG | Variedades, KZO Entertainment [HD]
@@ -315,7 +329,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSpor
 #EXTINF:-1, Deportes, TyC Sports Internacional [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Internacional.m3u8
 #EXTINF:-1, Deportes, Golf Channel [HD]
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
+http://edge-live14-hr.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
 #EXTINF:-1, Deportes, NBA TV [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 #EXTINF:-1, Deportes, PX Sports [HD]
@@ -334,19 +348,19 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1, Cine y Series, TNT Series [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 #EXTINF:-1, Cine y Series, TBS [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/TBS/SA_SAGEMCOM/TBS.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 #EXTINF:-1, Cine y Series, TCM [SD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/TCM/SA_SAGEMCOM/TCM.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
 #EXTINF:-1, Cine y Series, Sony Channel [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 #EXTINF:-1, Cine y Series, AXN [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1, Cine y Series, UniversalTV [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 #EXTINF:-1, Cine y Series, Studio Universal [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
-#EXTINF:-1, Cine y Series, SYFY [SD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+#EXTINF:-1, Cine y Series, SYFY [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
 #EXTINF:-1, Cine y Series, AMC [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 #EXTINF:-1, Cine y Series, EuropaEuropa [HD]
@@ -354,7 +368,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa
 #EXTINF:-1, Cine y Series, Star Channel [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1, Cine y Series, Star Life [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/Start_Life/SA_SAGEMCOM/Start_Life.m3u8
 #EXTINF:-1, Cine y Series, Cinecanal [HD]
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1, Cine y Series, FX [HD]
@@ -364,11 +378,11 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilm
 #EXTINF:-1, Cine y Series, Eurochannel [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
 #EXTINF:-1, Cine y Series, A3Cine [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
 #EXTINF:-1, Cine y Series, A3Series [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
 #EXTINF:-1, Cine y Series, Paramount Network [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-1, Cultura y Documentales, Film&Arts [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8
@@ -410,9 +424,9 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Disco
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
 
 #EXTINF:-1, Música, MTV [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 #EXTINF:-1, Música, MTV Hits [SD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 #EXTINF:-1, Música, MTV 00s [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/MTV00/SA_SAGEMCOM/MTV00.m3u8
 #EXTINF:-1, Música, NickMusic [SD]
@@ -450,11 +464,11 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/Telefe_Internacional/SA_SAGEMCOM
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_SAGEMCOM/Artear_Internacional.m3u8
 
 #EXTINF:-1, Variedades, Animal Planet [HD]
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+http://edge-live14-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1, Variedades, TLC [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
-#EXTINF:-1, Variedades, HGTV [SD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+#EXTINF:-1, Variedades, HGTV [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
 #EXTINF:-1, Variedades, Discovery Home&Health [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 #EXTINF:-1, Variedades, Discovery Theater [HD]
@@ -468,23 +482,23 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Di
 #EXTINF:-1, Variedades, Food Network [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 #EXTINF:-1, Variedades, Telemundo Internacional [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 #EXTINF:-1, Variedades, Las Estrellas [SD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1, Variedades, E! [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
 #EXTINF:-1, Variedades, Lifetime [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 #EXTINF:-1, Variedades, Comedy Central [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 #EXTINF:-1, Variedades, Pasiones [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1, Variedades, A&E [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 #EXTINF:-1, Variedades, MásChic [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
 #EXTINF:-1, Variedades, ¡HOLA! TV [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 #EXTINF:-1, Variedades, TruTV [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 #EXTINF:-1, Variedades, Glitz* [SD]
