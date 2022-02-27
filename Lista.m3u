@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Lista actualizada 25/02/2022, ClanDeCable
+#EXTINF:-1, Lista actualizada 26/02/2022, ClanDeCable
 https://i.imgur.com/SIPXj8s.png
 
 #EXTINF:-1, ARG | Nacionales, América [HD]
@@ -14,7 +14,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 #EXTINF:-1, ARG | Nacionales, Net TV [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
-#EXTINF:-1, ARG | Locales, Canal de la Ciudad | CABA [HD]
+#EXTINF:-1, ARG | Locales, Canal de la Ciudad | CABA [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_SAGEMCOM/Canal_de_la_ciudad.m3u8
 #EXTINF:-1, ARG | Locales, Metro | CABA [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Metro/SA_SAGEMCOM/Metro.m3u8
@@ -30,7 +30,9 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/Canal_10_Junin/SA_SAGEMCOM/Canal
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/TeleJunin/SA_SAGEMCOM/TeleJunin.m3u8
 #EXTINF:-1, ARG | Locales, Canal 7 Bahía Blanca | Pcia. Bs. As. [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_SAGEMCOM/Canal7_Bahia_Blanca.m3u8
-#EXTINF:-1, ARG | Locales, Somos Bahía Blanca | Pcia. Bs. As. [HD]
+#EXTINF:-1, ARG | Locales, Telefe Bahía Blanca | Pcia. Bs. As. [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_SAGEMCOM/Canal9_Bahia_Blanca.m3u8
+#EXTINF:-1, ARG | Locales, Somos Bahía Blanca | Pcia. Bs. As. [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_SAGEMCOM/Somos_Bahia_Blanca.m3u8
 #EXTINF:-1, ARG | Locales, Telefe Mar del Plata | Pcia. Bs. As. [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal_8_MDQ/SA_SAGEMCOM/Canal_8_MDQ.m3u8
@@ -42,7 +44,15 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/Canal_79_MDQ/SA_SAGEMCOM/Canal_7
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_SAGEMCOM/Canal_Ciudad_MDQ.m3u8
 #EXTINF:-1, ARG | Locales, TSN Necochea | Pcia. Bs. As. [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/TSN_Necochea/SA_SAGEMCOM/TSN_Necochea.m3u8
-#EXTINF:-1, ARG | Locales, Telefe Córdoba [HD]
+#EXTINF:-1, ARG | Locales, Somos Chacabuco | Pcia. Bs. As. [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Somos_Chacabuco/SA_SAGEMCOM/Somos_Chacabuco.m3u8
+#EXTINF:-1, ARG | Locales, Somos San Nicolás | Pcia. Bs. As. [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Somos_San_Nicolas/SA_SAGEMCOM/Somos_San_Nicolas.m3u8
+#EXTINF:-1, ARG | Locales, Somos San Pedro y Baradero | Pcia. Bs. As. [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Somos_San_Pedro/SA_SAGEMCOM/Somos_San_Pedro.m3u8
+#EXTINF:-1, ARG | Locales, Somos Azul | Pcia. Bs. As. [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Somos_Azul/SA_SAGEMCOM/Somos_Azul.m3u8
+#EXTINF:-1, ARG | Locales, Telefe | Córdoba [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_SAGEMCOM/Canal_8_CBA.m3u8
 #EXTINF:-1, ARG | Locales, Canal 10 | Córdoba [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_SAGEMCOM/Canal10_CBA_HD.m3u8
@@ -64,33 +74,33 @@ https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal_3_Rosario/SA_SAGEMCOM/Cana
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_SAGEMCOM/Canal_5_Rosario.m3u8
 #EXTINF:-1, ARG | Locales, Santa Fe Canal [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/5RTV/SA_SAGEMCOM/5RTV.m3u8
-#EXTINF:-1, ARG | Locales, Somos Santa Fe [HD]
+#EXTINF:-1, ARG | Locales, Somos | Santa Fe [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c5eds/Somos_STF/SA_SAGEMCOM/Somos_STF.m3u8
 #EXTINF:-1, ARG | Locales, Somos Rosario | Santa Fe [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_SAGEMCOM/Somos_Rosario.m3u8
 #EXTINF:-1, ARG | Locales, Somos Rafaela | Santa Fe [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_SAGEMCOM/Somos_Rafaela.m3u8
-#EXTINF:-1, ARG | Locales, Telefe Salta [SD]
+#EXTINF:-1, ARG | Locales, Telefe | Salta [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_SAGEMCOM/Telefe_Salta.m3u8
 #EXTINF:-1, ARG | Locales, Somos Salta-Jujuy [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Salta/SA_SAGEMCOM/Somos_Salta.m3u8
 #EXTINF:-1, ARG | Locales, Somos El Valle | Alto Valle [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_SAGEMCOM/Somos_El_Valle.m3u8
-#EXTINF:-1, ARG | Locales, Telefe Neuquén [HD]
+#EXTINF:-1, ARG | Locales, Telefe | Neuquén [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_SAGEMCOM/Telefe_Neuquen.m3u8
 #EXTINF:-1, ARG | Locales, 13 Max | Corrientes [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_SAGEMCOM/CH_13_Corrientes.m3u8
-#EXTINF:-1, ARG | Locales, Somos Corrientes [SD]
+#EXTINF:-1, ARG | Locales, Somos | Corrientes [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_SAGEMCOM/Somos_Corrientes.m3u8
 #EXTINF:-1, ARG | Locales, Canal 9 Resistencia | Chaco [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_SAGEMCOM/CH_9_Resistencia.m3u8
 #EXTINF:-1, ARG | Locales, Somos | Chaco [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Resistencia/SA_SAGEMCOM/Somos_Resistencia.m3u8
-#EXTINF:-1, ARG | Locales, Telefe Tucumán [HD]
+#EXTINF:-1, ARG | Locales, Telefe | Tucumán [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_SAGEMCOM/Canal_8_Tucuman.m3u8
 #EXTINF:-1, ARG | Locales, Canal 10 | Tucumán [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_SAGEMCOM/Ch10_Tucuman.m3u8
-#EXTINF:-1, ARG | Locales, América Tucumán [HD]
+#EXTINF:-1, ARG | Locales, América | Tucumán [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/America24_Tucuman/SA_SAGEMCOM/America24_Tucuman.m3u8
 #EXTINF:-1, ARG | Locales, Doce Misiones [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_SAGEMCOM/CH_12_Posadas.m3u8
@@ -100,7 +110,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Posadas/SA_SAGEMCOM/Somos_
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_SAGEMCOM/Canal_9_Parana.m3u8
 #EXTINF:-1, ARG | Locales, El Once Paraná | Entre Ríos [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Canal_11_Parana/SA_SAGEMCOM/Canal_11_Parana.m3u8
-#EXTINF:-1, ARG | Locales, Somos Entre Ríos [SD]
+#EXTINF:-1, ARG | Locales, Somos | Entre Ríos [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Parana/SA_SAGEMCOM/Somos_Parana.m3u8
 #EXTINF:-1, ARG | Locales, Canal 10 | Río Negro [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_SAGEMCOM/Canal10_Rio_Negro.m3u8
