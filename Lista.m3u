@@ -286,15 +286,15 @@ https://musicsrc.cvattv.com.ar/RUR
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 #EXTINF:-1, URU | Nacionales, Canal 5 [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_SAGEMCOM/TV_Nacional_Uy.m3u8
-#EXTINF:-1, URU | Nacionales, TV Ciudad [SD]
-https://edge-live31-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
 #EXTINF:-1, URU | Nacionales, Canal 10 [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 #EXTINF:-1, URU | Nacionales, Teledoce [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
 #EXTINF:-1, URU | Nacionales, VTV [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
-#EXTINF:-1, URU | Nacionales, UCL [SD]
+#EXTINF:-1, URU | Locales, TV Ciudad | Montevideo [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
+#EXTINF:-1, URU | Variedades, UCL [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Canal_U/SA_SAGEMCOM/Canal_U.m3u8
 #EXTINF:-1, URU | Deportes Premium, VTV Plus [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
