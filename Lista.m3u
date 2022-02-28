@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Lista actualizada 26/02/2022, ClanDeCable
+#EXTINF:-1, Lista actualizada 28/02/2022, ClanDeCable
 https://i.imgur.com/SIPXj8s.png
 
 #EXTINF:-1, ARG | Nacionales, América [HD]
@@ -74,6 +74,8 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_SAGEMCOM/Cana
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_SAGEMCOM/Canal_5_Rosario.m3u8
 #EXTINF:-1, ARG | Locales, Santa Fe Canal [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/5RTV/SA_SAGEMCOM/5RTV.m3u8
+#EXTINF:-1, ARG | Locales, Telefe | Santa Fe [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_SAGEMCOM/Canal_13_SFE.m3u8
 #EXTINF:-1, ARG | Locales, Somos | Santa Fe [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c5eds/Somos_STF/SA_SAGEMCOM/Somos_STF.m3u8
 #EXTINF:-1, ARG | Locales, Somos Rosario | Santa Fe [HD]
@@ -82,6 +84,8 @@ https://edge-live31-hr.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_SAGEMCOM/Somos_
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_SAGEMCOM/Somos_Rafaela.m3u8
 #EXTINF:-1, ARG | Locales, Telefe | Salta [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_SAGEMCOM/Telefe_Salta.m3u8
+#EXTINF:-1, ARG | Locales, Canal 7 | Jujuy
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/CH_7_Jujuy/SA_SAGEMCOM/CH_7_Jujuy.m3u8
 #EXTINF:-1, ARG | Locales, Somos Salta-Jujuy [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Salta/SA_SAGEMCOM/Somos_Salta.m3u8
 #EXTINF:-1, ARG | Locales, Somos El Valle | Alto Valle [SD]
