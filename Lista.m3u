@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Lista actualizada 28/02/2022, ClanDeCable
+#EXTINF:-1, Lista actualizada 01/03/2022, ClanDeCable
 https://i.imgur.com/SIPXj8s.png
 
 #EXTINF:-1, ARG | Nacionales, América [HD]
@@ -120,6 +120,8 @@ https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Parana/SA_SAGEMCOM/Somos_P
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_SAGEMCOM/Canal10_Rio_Negro.m3u8
 #EXTINF:-1, ARG | Locales, Canal 7 | Santiago del Estero [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_SAGEMCOM/Canal7_SDE.m3u8
+#EXTINF:-1, ARG | Locales, Canal 9 | La Rioja [SD]
+http://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal9_La_Rioja/SA_SAGEMCOM/Canal9_La_Rioja.m3u8
 #EXTINF:-1, ARG | Locales, Canal 7 | Catamarca [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal7_Catamarca/SA_SAGEMCOM/Canal7_Catamarca.m3u8
 #EXTINF:-1, ARG | Locales, Somos | La Pampa [HD]
