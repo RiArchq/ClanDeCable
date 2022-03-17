@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Lista actualizada 01/03/2022, ClanDeCable
+#EXTINF:-1, ClanDeCable, Última Actualización: 17/03/2022
 https://i.imgur.com/SIPXj8s.png
 
 #EXTINF:-1, ARG | Nacionales, América [HD]
@@ -62,12 +62,16 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_SAGEMCOM/Canal_1
 https://edge-live31-hr.cvattv.com.ar/live/c5eds/Canal_C/SA_SAGEMCOM/Canal_C.m3u8
 #EXTINF:-1, ARG | Locales, ShowSport | Córdoba [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Show_Sports/SA_SAGEMCOM/Show_Sports.m3u8
+#EXTINF:-1, ARG | Locales, Somos Río Tercero | Córdoba [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Rio_3ro/SA_SAGEMCOM/Somos_Rio_3ro.m3u8
 #EXTINF:-1, ARG | Locales, Canal 13 Río Cuarto | Córdoba [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal_13_Rio_4to/SA_SAGEMCOM/Canal_13_Rio_4to.m3u8
 #EXTINF:-1, ARG | Locales, Somos Río Cuarto | Córdoba [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Somos_Rio_4to/SA_SAGEMCOM/Somos_Rio_4to.m3u8
 #EXTINF:-1, ARG | Locales, Somos Villa María | Córdoba [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Somos_Villa_Maria/SA_SAGEMCOM/Somos_Villa_Maria.m3u8
+#EXTINF:-1, ARG | Locales, Somos Bell Ville | Córdoba [SD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/Somos_Bell_Ville/SA_SAGEMCOM/Somos_Bell_Ville.m3u8
 #EXTINF:-1, ARG | Locales, El Tres TV Rosario | Santa Fe [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_SAGEMCOM/Canal_3_Rosario.m3u8
 #EXTINF:-1, ARG | Locales, Telefe Rosario | Santa Fe [HD]
@@ -271,6 +275,10 @@ https://edge-live31-hr.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
 #EXTINF:-1, PAR | Noticias, TV Cámara [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
+#EXTINF:-1, PAR | Deportes, ESPN [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+#EXTINF:-1, PAR | Deportes, ESPN 2 [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
 #EXTINF:-1, PAR | Rural, Canal PRO [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Canal_PRO/SA_SAGEMCOM/Canal_PRO.m3u8
 #EXTINF:-1, PAR | Eventos, Eventos 1 [HD]
@@ -298,6 +306,10 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
 #EXTINF:-1, URU | Variedades, UCL [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Canal_U/SA_SAGEMCOM/Canal_U.m3u8
+#EXTINF:-1, URU | Deportes, ESPN [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/ESPN_UY/SA_SAGEMCOM/ESPN_UY.m3u8
+#EXTINF:-1, URU | Deportes, ESPN 2 [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_SAGEMCOM/ESPN2_UY.m3u8
 #EXTINF:-1, URU | Deportes Premium, VTV Plus [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 #EXTINF:-1, URU | Eventos, Eventos 1 [HD]
@@ -332,10 +344,6 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/France24_Flow/SA_SAGEMCOM/France
 #EXTINF:-1, Noticias, TeleSUR [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Telesur/SA_SAGEMCOM/Telesur.m3u8
 
-#EXTINF:-1, Deportes, ESPN [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/ESPN_UY/SA_SAGEMCOM/ESPN_UY.m3u8
-#EXTINF:-1, Deportes, ESPN 2 [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_SAGEMCOM/ESPN2_UY.m3u8
 #EXTINF:-1, Deportes, ESPN 3 [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_SAGEMCOM/ESPN3_Uy-Py.m3u8
 #EXTINF:-1, Deportes, ESPN 4 [HD]
