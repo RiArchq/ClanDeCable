@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, ClanDeCable, Última Actualización: 17/03/2022
+#EXTINF:-1, ClanDeCable, Última Actualización: 04/04/2022
 https://i.imgur.com/SIPXj8s.png
 
 #EXTINF:-1, ARG | Nacionales, América [HD]
@@ -240,10 +240,10 @@ https://musicsrc.cvattv.com.ar/RCNN
 https://musicsrc.cvattv.com.ar/RDPL
 #EXTINF:-1, ARG | Radios, Disney FM 94.3 | CABA
 https://musicsrc.cvattv.com.ar/RDIS
-#EXTINF:-1, ARG | Radios, Mitre FM 96.5 | Rosario
-https://musicsrc.cvattv.com.ar/RMIR
 #EXTINF:-1, ARG | Radios, La 100 FM 99.9 | CABA
 https://musicsrc.cvattv.com.ar/L100
+#EXTINF:-1, ARG | Radios, Meridiano FM 107.1 | Rosario
+https://musicsrc.cvattv.com.ar/RMER
 
 #EXTINF:-1, PAR | Nacionales, Telefuturo [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
@@ -316,8 +316,6 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_SAGEMCOM/Eventos_HD_Uy.m3u8
 #EXTINF:-1, URU | Eventos, Eventos 2 [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_SAGEMCOM/Eventos_2_UY.m3u8
-#EXTINF:-1, URU | Radios, Sarandí AM 690 | Montevideo
-https://musicsrc.cvattv.com.ar/SARUY
 #EXTINF:-1, URU | Radios, Azul FM 101.9 | Montevideo
 https://musicsrc.cvattv.com.ar/AZUY
 #EXTINF:-1, URU | Radios, Disney 103.7 | Montevideo
@@ -360,6 +358,8 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_SAGEMCOM/Ty
 http://edge-live14-hr.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
 #EXTINF:-1, Deportes, NBA TV [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
+#EXTINF:-1, Deportes, Discovery Turbo [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 #EXTINF:-1, Deportes, PX Sports [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports.m3u8
 
@@ -411,6 +411,21 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
 #EXTINF:-1, Cine y Series, Paramount Network [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+
+#EXTINF:-1, Cine y Series Premium, HBO 2 [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+#EXTINF:-1, Cine y Series Premium, HBO Plus [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+#EXTINF:-1, Cine y Series Premium, HBO Mundi [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+#EXTINF:-1, Cine y Series Premium, HBO Pop [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+#EXTINF:-1, Cine y Series Premium, HBO Xtreme [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+#EXTINF:-1, Cine y Series Premium, HBO Family [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+#EXTINF:-1, Cine y Series Premium, HBO Signature [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 
 #EXTINF:-1, Cultura y Documentales, Film&Arts [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8
@@ -484,7 +499,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/Antena_3/SA_SAGEMCOM/Antena_3.m3
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Tv_Chile/SA_SAGEMCOM/Tv_Chile.m3u8
 #EXTINF:-1, Internacionales, Band Internacional | Brasil [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Bandeirantes/SA_SAGEMCOM/Bandeirantes.m3u8
-#EXTINF:-1, Internacionales, RecordTV Americas | Brasil [SD]
+#EXTINF:-1, Internacionales, RecordTV San Pablo | Brasil [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Rede_Record/SA_SAGEMCOM/Rede_Record.m3u8
 #EXTINF:-1, Internacionales, Telefe Internacional | Argentina [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Telefe_Internacional/SA_SAGEMCOM/Telefe_Internacional.m3u8
