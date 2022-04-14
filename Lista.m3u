@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, ClanDeCable, Última Actualización: 04/04/2022
+#EXTINF:-1, ClanDeCable, Última actualización: 14/04/2022
 https://i.imgur.com/SIPXj8s.png
 
 #EXTINF:-1, ARG | Nacionales, América [HD]
@@ -395,14 +395,10 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
 #EXTINF:-1, Cine y Series, Star Channel [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1, Cine y Series, Star Life [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c6eds/Start_Life/SA_SAGEMCOM/Start_Life.m3u8
 #EXTINF:-1, Cine y Series, Cinecanal [HD]
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1, Cine y Series, FX [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
-#EXTINF:-1, Cine y Series, FXM [HD]
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
 #EXTINF:-1, Cine y Series, Eurochannel [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
 #EXTINF:-1, Cine y Series, A3Cine [HD]
@@ -431,8 +427,6 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Si
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8
 #EXTINF:-1, Cultura y Documentales, National Geographic [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-#EXTINF:-1, Cultura y Documentales, Nat Geo Wild [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 #EXTINF:-1, Cultura y Documentales, Discovery Channel [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 #EXTINF:-1, Cultura y Documentales, History [HD]
@@ -445,12 +439,8 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/EWTN/SA_SAGEMCOM/EWTN.m3u8
 
 #EXTINF:-1, Infantiles, Disney Channel [HD]
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-#EXTINF:-1, Infantiles, Disney XD [HD]
-https://edge-live31-hr.cvattv.com.ar/live/c7eds/DisneyXD/SA_SAGEMCOM/DisneyXD.m3u8
 #EXTINF:-1, Infantiles, Disney Junior [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
-#EXTINF:-1, Infantiles, Nat Geo Kids [SD]
-https://edge-live31-hr.cvattv.com.ar/live/c6eds/NatGeo_Kids/SA_SAGEMCOM/NatGeo_Kids.m3u8
 #EXTINF:-1, Infantiles, Nickelodeon [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 #EXTINF:-1, Infantiles, Nick Jr. [HD]
@@ -542,6 +532,8 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
 #EXTINF:-1, Variedades, ¡HOLA! TV [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
+#EXTINF:-1, Variedades, El Gourmet [HD]
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 #EXTINF:-1, Variedades, TruTV [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 #EXTINF:-1, Variedades, Glitz* [SD]
