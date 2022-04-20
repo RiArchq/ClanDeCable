@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, ClanDeCable, Última actualización: 14/04/2022
+#EXTINF:-1, ClanDeCable, Última actualización: 20/04/2022
 https://i.imgur.com/SIPXj8s.png
 
 #EXTINF:-1, ARG | Nacionales, América [HD]
@@ -14,6 +14,22 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 #EXTINF:-1, ARG | Nacionales, Net TV [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
+#EXTINF:-1, ARG | Nacionales, América Interior [HD]
+#EXTVLCOPT:http-referrer=https://vivo.playme.com.ar/play/h3i5e-kkkc4-mp6ge-cbgg1/83456564
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://rafaelawiltelms.edge-access2.net/hls/play/gkd0c-16cfa-lnl30-i9h8j_720p/index.m3u8
+#EXTINF:-1, ARG | Nacionales, El Nueve Interior [HD]
+#EXTVLCOPT:http-referrer=https://vivo.playme.com.ar/play/4f12o-o7hcp-5k0o2-d0i5c/0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://rafaelawiltelms.edge-access2.net/hls/play/hicd2-mhna0-odo1n-i8iml_720p/index.m3u8
+#EXTINF:-1, ARG | Nacionales, Telefe Interior [HD]
+#EXTVLCOPT:http-referrer=https://vivo.playme.com.ar/play/he484-c2lnm-l4m8o-l9dpn/0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://rafaelawiltelms.edge-access2.net/hls/play/ac165-cmg5k-pn87k-7fo6d_720p/index.m3u8
+#EXTINF:-1, ARG | Nacionales, eltrece Satelital [HD]
+#EXTVLCOPT:http-referrer=https://vivo.playme.com.ar/play/he484-c2lnm-l4m8o-l9dpn/0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://rafaelawiltelms.edge-access2.net/hls/play/a2hf7-4ggt-3m98-09jhd_720p/index.m3u8
 #EXTINF:-1, ARG | Locales, Canal de la Ciudad | CABA [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_SAGEMCOM/Canal_de_la_ciudad.m3u8
 #EXTINF:-1, ARG | Locales, Metro | CABA [HD]
