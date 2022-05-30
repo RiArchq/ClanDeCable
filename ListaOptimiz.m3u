@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, ClanDeCable, Última actualización: 14/04/2022
+#EXTINF:-1, "ClanDeCable", Última actualización: 30/05/2022
 https://i.imgur.com/SIPXj8s.png
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina", América [HD]
@@ -190,8 +190,6 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_SAGEMCOM/CANAL_LUZ.
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/Canal_21/SA_SAGEMCOM/Canal_21.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.58016b8b361ee_2381(1).png.089699e54d45b663e93dd0242a3b098a.png" group-title="Religión", Señal Santa María [SD]
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Senal_Maria/SA_SAGEMCOM/Senal_Maria.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWN4BG38QL5jpzhINBbImRi0m590Rci03zw&usqp=CAU" group-title="Religión", Nueva Imagen Televisión [SD]
-https://edge-live31-hr.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png" group-title="Infantiles", Paka Paka [HD]
 https://edge-live31-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.1.png.c1be57e2f2ca935efa95836c8870ba89.png" group-title="Música", Quiero [HD]
